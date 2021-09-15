@@ -1,0 +1,10 @@
+vì chưa gõ kịp latex nên em tạm đưa đáp án lên đây trước ạ.
+
+EX 1:
+a group of people 5% of which are known to have Hansen's disease, in it_ 98% tested positive(po)
+                                                                       _ 3% tested negative(ne)
+A = {Hansen(H), Not(N)}
+Use Baye's rule we have:
+P(po|H) = ( P(H|po) * P(po) ) / P(H)
+        = ( 0.05 * 0.98) / ( 0.05 * 0.98 + 0.05 * 0.0.03 )
+        = 0.(9702)
